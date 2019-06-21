@@ -13,11 +13,11 @@ local complex modulation of light fields. 2019
 
 % Contents:
 
-% main 				Main script
+% main 				      Main script
 
 % define_T 			    Initial conditions settings
 
-% FFT2			         Fast Fourier Transform balanced
+% FFT2			        Fast Fourier Transform balanced
 
 % iFFT2			        Inverse Fast Fourier Transform balanced
 
