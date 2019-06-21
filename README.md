@@ -1,6 +1,9 @@
 % Authors: M. Yommi, A. Bianchetti, P. Etchepareborda, and A. Federico
+
 % Email: ????????????
+
 % Homepage: http://www.latof ??????? 
+
 % 
 % Reference:
 % M. Yommi, A. Bianchetti, P. Etchepareborda, and A. Federico. Determining high-accuracy random phase-only masks for 
