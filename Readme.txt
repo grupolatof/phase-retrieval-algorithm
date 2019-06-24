@@ -3,7 +3,7 @@ Beam shaping using random phase-only mask for Matlab
 ====================================================
 
 Authors: M. Yommi, A. Bianchetti, P. Etchepareborda, and A. Federico
-Email: ????????????
+Email: grupolatof@gmail.com
 Homepage: http://www.latof ??????? 
 
 Reference:
