@@ -6,16 +6,24 @@
 * **Homepage**: http://www.inti.gov.ar
 
 ## Reference
-M. Yommi, A. Bianchetti, P. Etchepareborda, and A. Federico. Determining high-accuracy random phase-only masks for 
-local complex modulation of light fields. 2019
 
-> Please cite this paper when the provided code is used. See licensing terms for details.
+Please use the following citation when citing phase-retrieval-algorithm in your research work:
+
+```
+@article{Yommi2019,
+  title={Determining high-accuracy random phase-only masks for local complex modulation of light fields},
+  author={M. Yommi, A. Bianchetti, P. Etchepareborda, A. Federico},
+  year={2019}
+}
+```
+
+See licensing terms for details.
 
 ## Contents
 | Script  | Description |
 |---|---|
 | [main.m](/source/main.m) | Main script. |
-| [define_T.m](/source/define_T.m.m) | Initial conditions settings. |
+| [define_T.m](/source/define_T.m) | Initial conditions settings. |
 | [FFT2.m](/source/FFT.m) | Fast Fourier Transform balanced. |
 | [iFFT2](/source/iFFT2.m) | Inverse Fast Fourier Transform balanced. |
 | [PR.m](/source/PR.m) | Phase retrieval algorithm.  |
