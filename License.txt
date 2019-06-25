@@ -32,7 +32,7 @@ This is an implementation of the phase retrieval algorithm for calculating the
 phase-only mask in beam shaping problems. Please refer
 to the following paper:
 
-Z. Wang, A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli, "Determining high-accuracy 
+M. Yommi, A. Bianchetti, P. Etchepareborda, and A. Federico, "Determining high-accuracy 
 random phase-only masks for complex local modulation of light fields," 2019.
 
 Kindly report any suggestions or corrections to grupolatof@gmail.com
