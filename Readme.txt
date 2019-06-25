@@ -4,7 +4,7 @@ Beam shaping using random phase-only mask for Matlab
 
 Authors: M. Yommi, A. Bianchetti, P. Etchepareborda, and A. Federico
 Email: grupolatof@gmail.com
-Homepage: http://www.latof ??????? 
+Homepage: http://www.inti.gov.ar 
 
 Reference:
 M. Yommi, A. Bianchetti, P. Etchepareborda, and A. Federico. Determining high-accuracy random phase-only masks for 
@@ -33,7 +33,7 @@ Nevertheless, they may contain errors or bugs, which may affect the outcome of y
 We do not take responsibility for any harm coming from using this toolbox, neither if it is caused by errors in the 
 software nor if it is caused by its improper application. Please email us any bugs you find.
 
-Distributed under Open Source Script, ???? License
+Distributed under Open Source Script.
 
 
 
