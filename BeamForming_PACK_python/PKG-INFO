@@ -1,0 +1,8 @@
+Metadata-Version: 1.0
+Name: BeamShapingPyProject
+Version: 0.0.1
+Summary: Beam Shaping Algorithm using phase-only random masks 
+Home-page: https://www.researchgate.net/publication/337211653_Determining_high-accuracy_random_phase-only_masks_for_complex_local_modulation_of_arbitrary_light_fields
+Author: M Yommi
+Author-email: myommi@inti.gob.ar
+
