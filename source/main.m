@@ -1,5 +1,6 @@
 function main ()
 %% Initialization
+
     close all
            
     [Ei,Et,t,b,thresh,Nx,Ny,NLx,NLy,OffsetX,OffsetY,steps] = define_T();
