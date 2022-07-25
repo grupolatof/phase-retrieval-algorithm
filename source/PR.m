@@ -9,7 +9,7 @@ function [tau,rms_angle,rms_fourier] = PR(Ei,Et,thresh,b,t,NLx,NLy,steps)
 %
 % Date: 10/30/2019
 % Authors: A. Federico - M. Yommi
-%
+
     T = iFFT2(Et);
     rng(22); phi = rand(size(T))*2*pi-pi; 
     rms_angle(1) = 1; 
