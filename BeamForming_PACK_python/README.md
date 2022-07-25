@@ -1,9 +1,6 @@
 
 # Beam shaping using random phase-only mask for Python.
 
-Here is presented an iterative algorithm that locally resolves the beam shaping problem through determining high-accuracy random phase-only masks. The algorithm is based on the discrimination of the target field spatial frequencies and a relation between the intensities of the incident and target fields, which is determined from a simple physical model. Considering an extensive set of arbitrary complex input fields, particularly
-those having random amplitude and phase values, the chosen variable relation between the maximal values of the intensities of the incident and target fields allows the user to find random phase-only masks with adjustable accuracy. 
-
 The replication of these presented results also were carried out by the open source scripts in MATLAB code, available in
 https://github.com/grupolatof/phase-retrieval-algorithm. [offered July 2022]
 
