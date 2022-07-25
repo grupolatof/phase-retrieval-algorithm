@@ -17,7 +17,7 @@ function [Ei,Et,t,b,thresh,Nx,Ny,NLx,NLy,OffsetX,OffsetY,steps] = define_T()
 %
 % Date: 05/30/2019
 % Authors: A. Federico - M. Yommi
-%
+
 
 %% Input conditions
     % Maximum mplitude of the Incident field
