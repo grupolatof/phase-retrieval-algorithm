@@ -8,7 +8,7 @@ function U = speckle_gen(fsp,Ny,Nx)
 %
 % Date: 06/10/2019
 % Authors: A. Federico - M. Yommi
-%
+
     
     fi = rand(Ny,Nx)*2*pi-pi;
     U = exp(1i*fi);  
