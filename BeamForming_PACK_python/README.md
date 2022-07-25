@@ -13,7 +13,7 @@ See licensing terms for details.
 
 ## Contents of the BeamFormingPyProject package
 | Script  | Description |
-|---|---| %%source
+|---|---| 
 |       [main](/source/main.py) | Main script. |
 |       [aux_tools](/source/aux_tools.py) | auxiliar tools script with the functions: |
 |           [define_T] | Initial conditions settings. |
@@ -22,13 +22,13 @@ See licensing terms for details.
 |           [PR] | Phase retrieval algorithm.  |
 |           [speckle_gen] |  Speckle field generator. |
 |           [mat2level] | Converts the matrix I to the intensity array F with values in the range [0,1]. |
-|---|---| %%env
-|       [Ei_amplitude.csv] | Intensity Data of the Input field
-|       [Ei_phase.csv] | Phase Data of the Input field
-|       [phi_mask.csv] | Calculated random phase-only mask
-|---|---| %%img
-|       [baboon.tif] | Phase field. Target
-|       [peppers.tif] | Amplitude field. Target
+|---|---| 
+|       [Ei_amplitude.csv] | Intensity Data of the Input field |
+|       [Ei_phase.csv] | Phase Data of the Input field |
+|       [phi_mask.csv] | Calculated random phase-only mask 
+|---|---| 
+|       [baboon.tif] | Phase field. Target 
+|       [peppers.tif] | Amplitude field. Target|
 
 
 For a detailed description of arguments and outputs consult the docstring in the files.
