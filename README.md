@@ -5,18 +5,6 @@
 * **Email**: grupolatof@gmail.com
 * **Homepage**: http://www.inti.gov.ar
 
-## Reference
-
-Please use the following citation when citing phase-retrieval-algorithm in your research work:
-
-```
-@article{Yommi2019,
-  title={Determining high-accuracy random phase-only masks for local complex modulation of light fields},
-  author={M. Yommi, A. Bianchetti, P. Etchepareborda, A. Federico},
-  year={2019}
-}
-```
-
 See licensing terms for details.
 
 ## Contents
