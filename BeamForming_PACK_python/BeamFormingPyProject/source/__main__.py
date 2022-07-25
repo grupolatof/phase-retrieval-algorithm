@@ -15,6 +15,7 @@ import csv
 # Iterative algorithm for phase retrieval PR                   
 [tau,rms_angle,rms_fourier,steps] = PR(Ei,Et,thresh,b,t,NLx,NLy,steps)
 
+
 # Results #####################################################################################
 
 # E is the final field projected by using the obtained phase mask tau, and the incidente field Ei.
