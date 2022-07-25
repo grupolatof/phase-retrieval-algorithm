@@ -26,8 +26,7 @@ For a detailed description of arguments and outputs consult the docstring in the
 If you have suggestions, bugs or feature requests or want to contribute code, please email us.
 
 ## Disclaimer
-All functions in this toolbox were implemented with care and tested on the examples presented in *Determining high-accuracy random phase-only masks for local complex modulation of light fields.* were possible. 
-Nevertheless, they may contain errors or bugs, which may affect the outcome of your analysis. 
+All functions in this toolbox were implemented with care and tested. Nevertheless, they may contain errors or bugs, which may affect the outcome of your analysis. 
 We do not take responsibility for any harm coming from using this toolbox, neither if it is caused by errors in the software nor if it is caused by its improper application. Please email us any bugs you find.
 
 > Distributed under Open Source Script.
