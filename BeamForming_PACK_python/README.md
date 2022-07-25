@@ -12,19 +12,6 @@ https://github.com/grupolatof/phase-retrieval-algorithm. [offered July 2019]
 * **Email**: grupolatof@gmail.com
 * **Homepage**: http://www.inti.gov.ar
 
-## Reference
-
-Please use the following citation when citing phase-retrieval-algorithm in your research work:
-
-@article{Yommi2019,
-  title={Determining high-accuracy random phase-only masks for local complex modulation of light fields},
-  author={M. Yommi, A. Bianchetti, P. Etchepareborda, A. Federico},
-  year={2019}
-}
-Visit the repository with the optical description and mathematical procedures of this work in
-https://www.researchgate.net/publication/337211653_Determining_high-accuracy_random_phase-only_masks_for_complex_local_modulation_of_arbitrary_light_fields
-
-
 See licensing terms for details.
 
 ## Contents of the BeamFormingPyProject package
