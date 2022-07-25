@@ -2,7 +2,7 @@
 # Beam shaping using random phase-only mask for MATLAB®
 
 * **Authors**: [M. Yommi](https://github.com/maxiyommi), [A. Bianchetti](https://github.com/abianchetti), [P. Etchepareborda](https://github.com/PablitoE) and [A. Federico](https://github.com/alefederico).
-* **Email**: grupolatof@gmail.com
+* **Email**: federico@inti.gov.ar
 * **Homepage**: http://www.inti.gov.ar
 
 See licensing terms for details.
