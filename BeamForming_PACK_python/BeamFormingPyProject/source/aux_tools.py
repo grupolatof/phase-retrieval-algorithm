@@ -195,3 +195,4 @@ def define_T():
     Et = A_t*np.power(np.e,1j*Phi_t) # Target beam embedded in Ny by Nx pixels
         
     return(Ei,Et,t,b,thresh,Nx,Ny,NLx,NLy,OffsetX,OffsetY,steps)
+
