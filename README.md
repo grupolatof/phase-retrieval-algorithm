@@ -30,7 +30,7 @@ See licensing terms for details.
 | [speckle_gen.m](/source/speckle_gen.m) |  Speckle field generator. |
 | [ssim_index.m](/source/ssim_index.m)  |  Structural SIMilarity (SSIM) index. |
 | [format_subplot.m](/source/format_subplot.m) | Subplot function.  |
-| [Letter](Letter.pdf) | Optical description. |
+
 
 
 For a detailed description of arguments and outputs consult the docstring in the files.
