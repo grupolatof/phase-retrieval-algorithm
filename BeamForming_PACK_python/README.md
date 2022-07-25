@@ -5,7 +5,7 @@ Here is presented an iterative algorithm that locally resolves the beam shaping 
 those having random amplitude and phase values, the chosen variable relation between the maximal values of the intensities of the incident and target fields allows the user to find random phase-only masks with adjustable accuracy. 
 
 The replication of these presented results also were carried out by the open source scripts in MATLAB code, available in
-https://github.com/grupolatof/phase-retrieval-algorithm. [offered July 2019]
+https://github.com/grupolatof/phase-retrieval-algorithm. [offered July 2022]
 
 
 * **Authors**: [M. Yommi](https://github.com/maxiyommi), [A. Bianchetti](https://github.com/abianchetti), [P. Etchepareborda](https://github.com/PablitoE) and [A. Federico](https://github.com/alefederico).
