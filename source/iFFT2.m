@@ -8,7 +8,7 @@ function E = iFFT2(E0)
 %
 % Date: 05/30/2019
 % Authors: A. Federico - M. Yommi
-%   
+   
 
     [Ny,Nx] = size(E0);
     E = fftshift(ifft2(ifftshift(E0)))*sqrt(Ny)*sqrt(Nx);
